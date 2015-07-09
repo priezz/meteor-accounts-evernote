@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "evernote": {
+      "version": "1.25.8",
+      "dependencies": {
+        "oauth": {
+          "version": "0.9.13"
+        }
+      }
+    }
+  }
+}
