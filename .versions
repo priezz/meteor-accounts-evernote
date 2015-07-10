@@ -27,8 +27,8 @@ oauth@1.1.4
 oauth1@1.1.4
 observe-sequence@1.0.6
 ordered-dict@1.0.3
-priezz:accounts-evernote@0.2.3
-priezz:evernote@0.2.3
+priezz:accounts-evernote@0.2.4
+priezz:evernote@0.3.0
 random@1.0.3
 reactive-var@1.0.5
 reload@1.1.3
